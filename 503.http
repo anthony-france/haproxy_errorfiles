@@ -5,11 +5,12 @@ Content-Type: text/html
 
 <html> 
   <head>
-    <title>RARRR!!!!!</title>
+    <title>Vision Integrated Graphics Group</title>
+	<META http-equiv="refresh" content="10;URL=http://visionps.statuspage.io">
   </head> 
-  <body style="font-family:Arial,Helvetica,sans-serif;">
-    <div style="margin: 0 auto; width: 960px;"> 
-          <h2 >RAWR RAWR RAWR</h2>
+  <body>
+    <div> 
+          <p>Oh oh, it looks like there is a problem.  Lets check out the current server status...</p>
     </div>
   </body> 
 </html>
