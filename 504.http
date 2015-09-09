@@ -1,0 +1,16 @@
+HTTP/1.0 504 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+<html> 
+  <head>
+    <title>Vision Integrated Graphics Group</title>
+	<META http-equiv="refresh" content="10;URL=http://visionps.statuspage.io">
+  </head> 
+  <body>
+    <div> 
+          <p>Oh oh, it looks like there is a problem.  Lets check out the current server status...</p>
+    </div>
+  </body> 
+</html>
